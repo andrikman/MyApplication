@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Приложение</string>
+    <string name="InputText">Введите текст</string>
+    <string name="Add">Добавить</string>
+    <string name="Edit">Изменить</string>
+    <string name="EnterText">Введите текст</string>
+    <string name="Share">Поделиться</string>
+    <string name="White">Белый</string>
+    <string name="Blue">Синий</string>
+    <string name="Green">Зелёный</string>
+    <string name="Gray">Серый</string>
+    <string name="Red">Красный</string>
+    <string name="Settings">Настройки</string>
+    <string name="Photo">Фото</string>
+    <string name="EnterTwit">Введите твит</string>
+    <string name="Black">Чёрный</string>
+</resources>
